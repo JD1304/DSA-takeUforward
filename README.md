@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/JD1304/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0042-trapping-rain-water](https://github.com/JD1304/DSA/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/JD1304/DSA/tree/master/0049-group-anagrams) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/JD1304/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/JD1304/DSA/tree/master/0217-contains-duplicate) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/JD1304/DSA/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/JD1304/DSA/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/JD1304/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/JD1304/DSA/tree/master/0155-min-stack) |
 | [0503-next-greater-element-ii](https://github.com/JD1304/DSA/tree/master/0503-next-greater-element-ii) |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/JD1304/DSA/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/JD1304/DSA/tree/master/0503-next-greater-element-ii) |
 ## Math
 |  |
@@ -86,4 +89,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/JD1304/DSA/tree/master/0239-sliding-window-maximum) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/JD1304/DSA/tree/master/0042-trapping-rain-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/JD1304/DSA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
