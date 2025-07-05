@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JD1304/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/JD1304/DSA/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/JD1304/DSA/tree/master/0239-sliding-window-maximum) |
+| [0435-non-overlapping-intervals](https://github.com/JD1304/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0503-next-greater-element-ii](https://github.com/JD1304/DSA/tree/master/0503-next-greater-element-ii) |
 ## Hash Table
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/JD1304/DSA/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/JD1304/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/JD1304/DSA/tree/master/0242-valid-anagram) |
+| [0435-non-overlapping-intervals](https://github.com/JD1304/DSA/tree/master/0435-non-overlapping-intervals) |
 ## String
 |  |
 | ------- |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/JD1304/DSA/tree/master/0042-trapping-rain-water) |
+| [0435-non-overlapping-intervals](https://github.com/JD1304/DSA/tree/master/0435-non-overlapping-intervals) |
 ## Matrix
 |  |
 | ------- |
@@ -124,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/JD1304/DSA/tree/master/0054-spiral-matrix) |
+## Greedy
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/JD1304/DSA/tree/master/0435-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
