@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/JD1304/DSA/tree/master/0239-sliding-window-maximum) |
 | [0435-non-overlapping-intervals](https://github.com/JD1304/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0503-next-greater-element-ii](https://github.com/JD1304/DSA/tree/master/0503-next-greater-element-ii) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/JD1304/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/JD1304/DSA/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/JD1304/DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JD1304/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/JD1304/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/JD1304/DSA/tree/master/0054-spiral-matrix) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/JD1304/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Greedy
 |  |
 | ------- |
