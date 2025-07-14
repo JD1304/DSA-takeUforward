@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/JD1304/DSA/tree/master/0239-sliding-window-maximum) |
 | [0435-non-overlapping-intervals](https://github.com/JD1304/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0503-next-greater-element-ii](https://github.com/JD1304/DSA/tree/master/0503-next-greater-element-ii) |
+| [1675-magnetic-force-between-two-balls](https://github.com/JD1304/DSA/tree/master/1675-magnetic-force-between-two-balls) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/JD1304/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/JD1304/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/JD1304/DSA/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/JD1304/DSA/tree/master/0435-non-overlapping-intervals) |
+| [1675-magnetic-force-between-two-balls](https://github.com/JD1304/DSA/tree/master/1675-magnetic-force-between-two-balls) |
 ## String
 |  |
 | ------- |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/JD1304/DSA/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/JD1304/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JD1304/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1675-magnetic-force-between-two-balls](https://github.com/JD1304/DSA/tree/master/1675-magnetic-force-between-two-balls) |
 ## Divide and Conquer
 |  |
 | ------- |
