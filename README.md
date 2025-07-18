@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/JD1304/DSA/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/JD1304/DSA/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/JD1304/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0118-pascals-triangle](https://github.com/JD1304/DSA/tree/master/0118-pascals-triangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/JD1304/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/JD1304/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JD1304/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/JD1304/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/JD1304/DSA/tree/master/0042-trapping-rain-water) |
+| [0118-pascals-triangle](https://github.com/JD1304/DSA/tree/master/0118-pascals-triangle) |
 | [0435-non-overlapping-intervals](https://github.com/JD1304/DSA/tree/master/0435-non-overlapping-intervals) |
 ## Matrix
 |  |
