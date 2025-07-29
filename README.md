@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/JD1304/DSA/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/JD1304/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/JD1304/DSA/tree/master/0242-valid-anagram) |
+| [0412-fizz-buzz](https://github.com/JD1304/DSA/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/JD1304/DSA/tree/master/0424-longest-repeating-character-replacement) |
 ## Stack
 |  |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/JD1304/DSA/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/JD1304/DSA/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/JD1304/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0412-fizz-buzz](https://github.com/JD1304/DSA/tree/master/0412-fizz-buzz) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/JD1304/DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Linked List
 |  |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/JD1304/DSA/tree/master/0054-spiral-matrix) |
+| [0412-fizz-buzz](https://github.com/JD1304/DSA/tree/master/0412-fizz-buzz) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/JD1304/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Greedy
 |  |
