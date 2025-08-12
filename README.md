@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/JD1304/DSA/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/JD1304/DSA/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/JD1304/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0202-happy-number](https://github.com/JD1304/DSA/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/JD1304/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/JD1304/DSA/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/JD1304/DSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/JD1304/DSA/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/JD1304/DSA/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/JD1304/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0202-happy-number](https://github.com/JD1304/DSA/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/JD1304/DSA/tree/master/0412-fizz-buzz) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/JD1304/DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/JD1304/DSA/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/JD1304/DSA/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/JD1304/DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JD1304/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/JD1304/DSA/tree/master/0202-happy-number) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/JD1304/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
